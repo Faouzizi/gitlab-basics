@@ -1,2 +1,2 @@
-# gitlab-basics
-Some basic gitlab commands
+# git-basics
+Some basic git commands
